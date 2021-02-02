@@ -32,3 +32,4 @@ Tanggal: 27 Januari 2021
 
 ### Acknowledgement
 http://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2020-2021/Tugas-Kecil-1-(2021).pdf
+https://docs.python.org/3/library/itertools.html
